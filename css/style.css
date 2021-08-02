@@ -7,6 +7,11 @@ body {
     color: #868e96;
 }
 
+imgSize {
+    width:"300px"; 
+    height:"200px";
+}
+
 @media (min-width: 992px) {
     body {
         padding-top: 0;

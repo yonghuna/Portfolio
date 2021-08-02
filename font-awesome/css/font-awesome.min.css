@@ -1497,6 +1497,10 @@
     content: "\f37c";
 }
 
+.fa-html5:before {
+    content: "\f13b";
+}
+
 .fa-tencent-weibo:before {
     content: "\f1d5";
 }
