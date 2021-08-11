@@ -500,6 +500,14 @@ mark {
     max-width: 100%;
     height: auto;
 }
+.img-fluid_kiosk {
+    max-width: 230%;
+    height: auto;
+}
+.img-fluid_web {
+    max-width: 150%;
+    height: auto;
+}
 .img-fluid_ex {
     height: auto;
 }
