@@ -406,9 +406,11 @@ h6 {
 h1 {
     font-size: 2.5rem;
 }
+
+
 .h2,
 h2 {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .h3,
 h3 {
@@ -509,6 +511,11 @@ mark {
     height: auto;
 }
 .img-fluid_ex {
+    height: auto;
+}
+/* 포트폴리오 로고 부분 */
+.img-fluid_logo {
+    max-width: 100%;
     height: auto;
 }
 .img-thumbnail {
@@ -7660,5 +7667,12 @@ a.text-dark:hover {
     margin-left: -15px;
     flex-direction: column;
     align-content: stretch;
+}
+.portfolio_font {
+    margin-top: 0.7rem;
+    font-size: 1.3rem;
+    /* font-weight: 100; */
+    line-height: 140%;
+    
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
