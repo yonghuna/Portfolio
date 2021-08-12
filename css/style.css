@@ -786,7 +786,30 @@ a:active {
     width:100%;
     position:absolute;
 }
-
-.li{
-    margin-left: 10rem;
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
 }
+
+
+dt {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+    
+}
+
+dd {
+    margin-bottom: 1em;
+    padding-left: 30px;
+    line-height: 155%;
+    font-size: 18px;
+}
+
+
+/* a{
+    padding-left: 1rem;
+} */
