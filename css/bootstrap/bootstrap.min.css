@@ -503,7 +503,7 @@ mark {
     height: auto;
 }
 .img-fluid_kiosk {
-    max-width: 140%;
+    max-width: 102%;
     height: auto;
 }
 .img-fluid_c {
@@ -515,8 +515,11 @@ mark {
     height: auto;
 }
 .img-fluid_ex {
+    max-width: 100%;
     height: auto;
 }
+
+
 /* 포트폴리오 로고 부분 */
 .img-fluid_logo {
     max-width: 100%;
@@ -614,7 +617,7 @@ pre code {
 }
 @media (min-width:1200px) {
     .container {
-        max-width: 1140px;
+        max-width: 1340px;
     }
 }
 .container-fluid {
@@ -7674,7 +7677,7 @@ a.text-dark:hover {
 }
 .portfolio_font {
     margin-top: 0.7rem;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     /* font-weight: 100; */
     line-height: 140%;
     

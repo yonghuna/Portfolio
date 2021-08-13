@@ -353,7 +353,7 @@ a:active {
 }
 
 .portfolio-modal .modal-dialog .modal-content .item-details {
-    margin: 30px 0;
+    margin: 15px 0;
 }
  
 .portfolio-modal .close-modal {
@@ -793,7 +793,7 @@ a:active {
 
 dt {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 18px;
 }
 
 dl,
@@ -806,10 +806,10 @@ dd {
     margin-bottom: 1em;
     padding-left: 30px;
     line-height: 155%;
-    font-size: 18px;
+    font-size: 16px;
 }
 
-
-/* a{
-    padding-left: 1rem;
+/* 
+a{
+    text-indent: 30px;
 } */
