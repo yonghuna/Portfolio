@@ -519,8 +519,12 @@ mark {
     height: auto;
 }
 .img-type{
-    width: 302.4px;
-    height: 160.89px;
+    max-width: 100%;
+    height: 193.51px;
+}
+.img-type-ex{
+    max-width: 100%;
+    height: auto;
 }
 
 
