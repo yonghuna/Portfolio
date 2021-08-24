@@ -7693,4 +7693,13 @@ a.text-dark:hover {
 .profile_fontsize {
     font-size: 20px;
 }
+.profile_fontcolor {
+    color: #0069d9;
+}
+.text_right {
+    text-align:right;
+}
+.white {
+    color: rgb(212, 206, 206);
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
